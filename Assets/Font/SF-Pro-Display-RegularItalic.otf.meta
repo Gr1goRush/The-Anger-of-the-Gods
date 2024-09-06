@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 628ce4402a7281641be9d088384861f5
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - SF Pro Display
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 30539e6968636934da733748263be57e, type: 3}
+  - {fileID: 12800000, guid: e12212e1cbecc7a488727b083078fb01, type: 3}
+  - {fileID: 12800000, guid: 60a13ff5c9d41664db39451f20d53907, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
